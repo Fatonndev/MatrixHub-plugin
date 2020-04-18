@@ -4,6 +4,8 @@
 # Matrix plugin
 This plugin adds HUB to your server.
 
+![alt text](http://d.zaix.ru/iQP7.png)
+
 ## Installation
 
 Put the plugin in ``<server folder location>/config/mods`` folder.<br>
