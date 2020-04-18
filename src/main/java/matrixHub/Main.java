@@ -16,8 +16,6 @@ public class Main extends Plugin{
     public Main() {
 
         Config.main();
-        Upd.main();
-        //Upd.Update();
 
         Events.on(ServerLoadEvent.class, event -> {
             Vars.netServer.admins.addActionFilter(playerAction -> false);
@@ -25,6 +23,9 @@ public class Main extends Plugin{
         });
 
         Events.on(PlayerJoin.class, event -> {
+
+            Upd upd = new Upd();
+            upd.main(event.player);
 
             Call.onLabel(event.player.con, ConfigTranslate.get("server4.title"), 1100f, 508f, 304f);
             Call.onLabel(event.player.con, ConfigTranslate.get("server3.title"), 1100f, 284f, 304f);
