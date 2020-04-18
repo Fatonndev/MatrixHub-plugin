@@ -4,7 +4,7 @@
 # Matrix plugin
 This plugin adds HUB to your server.
 
-![](https://my-files.su/5o7vrs)
+![alt text](http://d.zaix.ru/iQP7.png)
 
 ## Installation
 
