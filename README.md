@@ -4,6 +4,8 @@
 # Matrix plugin
 This plugin adds HUB to your server.
 
+![](https://my-files.su/5o7vrs)
+
 ## Installation
 
 Put the plugin in ``<server folder location>/config/mods`` folder.<br>
