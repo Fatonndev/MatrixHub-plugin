@@ -1,5 +1,5 @@
 > # Link to Discord support server
-> https://discord.gg/ZYjxmYP
+> https://discord.gg/BnZV6Gj
 
 # Matrix plugin
 This plugin adds HUB to your server.
