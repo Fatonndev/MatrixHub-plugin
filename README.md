@@ -1,3 +1,6 @@
+> # Plugin moved to:
+> https://github.com/ObvilionNetwork/mindustry-hub-plugin
+
 > # Link to Discord support server
 > https://discord.gg/BnZV6Gj
 
